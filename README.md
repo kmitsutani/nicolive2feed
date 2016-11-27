@@ -1,7 +1,8 @@
-NicoLive2Feed (NL2F)
+NicoLive2Feed (NL2F) ver 0.0.1
 ====
 
 NicoLive2Feed is a scraping library to provide feed of searching result.
+Almost done, but imcomplete.
 
 ## Description
 
