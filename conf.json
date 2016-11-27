@@ -1,0 +1,6 @@
+{
+  "apibase": "http://live.nicovideo.jp/search",
+  "inrel_opts":  {"track": "", "sort": "recent", "date": "", "kind": ""},
+  "keywordfmt": "{title} 上映会",
+  "filterfmt": ":official::{status}:" 
+}
