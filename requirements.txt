@@ -1,6 +1,6 @@
 click==6.6
 feedgenerator==1.9
-lxml==3.6.4
+lxml==4.6.2
 PyYAML==3.12
 requests==2.12.1
 requirements==0.1
